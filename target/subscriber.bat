@@ -1,0 +1,1 @@
+java -jar PublisherSubscriber-1.0-SNAPSHOT-jar-with-dependencies.jar -host localhost -port 61616 -mode consumer -topic stocks
